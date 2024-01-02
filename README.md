@@ -11,4 +11,4 @@ Desafio feito no Frontend mentor
   - HTML
   - CSS
  
-<p>🔗 Link para acessar o <a href="">site</a></p> 
+<p>🔗 Link para acessar o <a href="https://joaovitor2004.github.io/componente-resumo-do-pedido/">site</a></p> 
